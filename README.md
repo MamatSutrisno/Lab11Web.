@@ -45,3 +45,53 @@ perintah berikut = php spark routes
 
 9. Cek hasil coodingan melalui link URL : http://localhost/lab11_php_ci/ci4/ci4/about/
 ![9](https://user-images.githubusercontent.com/101656195/172684619-524b98b1-6654-4e42-8f0c-8bfc2a761a96.png)
+
+10. Membuat Controller dengan nama page.php
+
+![10](https://user-images.githubusercontent.com/101656195/172685645-5afdcf21-8dcd-4846-a84d-b56d2a98729d.png)
+
+11. Cek hasil coodingan melalui link URL : http://localhost/lab11_php_ci/ci4/ci4/public/about
+
+![11](https://user-images.githubusercontent.com/101656195/172685657-4927c411-42e2-4eb5-808b-0b35b0277c99.png)
+
+12. Mambahkan method baru pada Controller Page
+
+![12](https://user-images.githubusercontent.com/101656195/172685661-ca248993-e544-49dd-8491-154140e3e810.png)
+
+13. Cek hasil coodingan melalui link URL : http://localhost/lab11_php_ci/ci4/ci4/public/tos
+
+![13](https://user-images.githubusercontent.com/101656195/172685667-2cb73ca6-cba7-4686-a4f4-4d23b063e50a.png)
+
+14. Buat file baru dengan nama about.php
+
+![14](https://user-images.githubusercontent.com/101656195/172685668-e1c2f35d-4892-4fcd-b67d-b956d67cfc98.png)
+
+15. Ubah method about pada class Controller Page
+
+![15](https://user-images.githubusercontent.com/101656195/172685672-3f150e55-fcd7-4a92-a029-7833e2810d3e.png)
+
+16. Cek hasil coodingan melalui link URL : http://localhost/lab11_php_ci/ci4/ci4/public/about
+
+![16](https://user-images.githubusercontent.com/101656195/172685677-e73a95d5-db3e-420d-a28b-6c25e0cd8015.png)
+
+17. Buat file css pada direktori public dengan nama style.css (copy file dari praktikum
+lab4_layout. Kita akan gunakan layout yang pernah dibuat pada praktikum 4.
+
+![17](https://user-images.githubusercontent.com/101656195/172685682-25b4fb8f-d40c-4b84-b021-b31b0c6ee478.png)
+
+18.  Buat file baru dengan nama header.php
+
+![18](https://user-images.githubusercontent.com/101656195/172685685-c7b4943a-ac02-418a-a3ce-3f446494f1ab.png)
+
+19.  Buat file baru dengan nama footer.php
+
+![19](https://user-images.githubusercontent.com/101656195/172685689-f474d27b-8cdc-4aaa-baaf-935abc1c09a6.png)
+
+20. Kemudian ubah file about.php seperti berikut
+
+![20](https://user-images.githubusercontent.com/101656195/172685693-6b5246c2-25f6-4fa2-b41c-fe2e18540e19.png)
+
+21. Cek hasil coodingan melalui link URL : http://localhost/lab11_php_ci/ci4/ci4/public/about
+
+![21](https://user-images.githubusercontent.com/101656195/172685701-ba59e136-86a2-411a-bd5b-901b682d3ad8.png)
+
