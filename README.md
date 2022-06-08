@@ -91,7 +91,7 @@ lab4_layout. Kita akan gunakan layout yang pernah dibuat pada praktikum 4.
 
 ![20](https://user-images.githubusercontent.com/101656195/172685693-6b5246c2-25f6-4fa2-b41c-fe2e18540e19.png)
 
-21. Cek hasil coodingan melalui link URL : http://localhost/lab11_php_ci/ci4/ci4/public/about
+21. Cek hasil coodingan
 
-![21](https://user-images.githubusercontent.com/101656195/172685701-ba59e136-86a2-411a-bd5b-901b682d3ad8.png)
+![0](https://user-images.githubusercontent.com/101656195/172699378-29f6748d-a0e2-420b-a2c1-a06c62b4bf9f.jpeg)
 
