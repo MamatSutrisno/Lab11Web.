@@ -173,11 +173,26 @@ lab4_layout. Kita akan gunakan layout yang pernah dibuat pada praktikum 4.
 
 ![23](https://user-images.githubusercontent.com/101656195/174033701-0387030f-ff45-4cfb-8af3-d3a834be4198.png)
 
-40. Cek hasil coodingan melalui link URL : form_add.php
+40. Membuat file baru dengan nama form_add.php
 
 ![24](https://user-images.githubusercontent.com/101656195/174033707-7bc96bdd-b3a8-496a-9750-cedbdce5e0b3.png)
+
+41. Cek hasil coodingan melalui link URL : form_add.php
+
 ![25](https://user-images.githubusercontent.com/101656195/174033711-0eb4d217-684c-4384-9784-d6c9684b9e74.png)
+
+42. Tambahkan fungsi/method baru pada Controller Artikel dengan nama edit()
+
 ![26](https://user-images.githubusercontent.com/101656195/174033716-2cc60f80-fe61-4a6c-b2bf-b06605be6cfc.png)
+
+43. Kemudian buat view untuk form tambah dengan nama form_edit.php
+
 ![27](https://user-images.githubusercontent.com/101656195/174033722-c5fd3c0c-a784-482c-bb06-bd0206a51d8c.png)
+
+44. Cek hasil coodingan melalui link URL : http://localhost:8080/admin/artikel/edit/1
+
 ![28](https://user-images.githubusercontent.com/101656195/174033730-3310df6a-a22f-4a7c-a52c-65843052341b.png)
+
+45. Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete()
+
 ![29](https://user-images.githubusercontent.com/101656195/174033735-ed38611d-6380-4059-9356-82de2de66e22.png)
