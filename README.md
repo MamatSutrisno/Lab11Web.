@@ -91,7 +91,93 @@ lab4_layout. Kita akan gunakan layout yang pernah dibuat pada praktikum 4.
 
 ![20](https://user-images.githubusercontent.com/101656195/172685693-6b5246c2-25f6-4fa2-b41c-fe2e18540e19.png)
 
-21. Cek hasil coodingan
+21. Cek hasil coodingan melalui link URL : http://localhost:8080/about
 
-![0](https://user-images.githubusercontent.com/101656195/172699378-29f6748d-a0e2-420b-a2c1-a06c62b4bf9f.jpeg)
+![24](https://user-images.githubusercontent.com/101656195/174023468-2351f698-02eb-4a41-9c8b-dba5878ebdec.png)
 
+22. Membuat Database dan Tabel
+
+![2](https://user-images.githubusercontent.com/101656195/174024197-f0bae422-ddfd-4237-bf33-66e6431e23c3.png)
+
+![3](https://user-images.githubusercontent.com/101656195/174024205-cb288cd2-96aa-4029-a79a-d597834f890a.png)
+
+23. Membuat konfigurasi untuk menghubungkan dengan database server melalui file .env
+
+![4](https://user-images.githubusercontent.com/101656195/174024391-8648a9ee-bd44-4ce5-9af7-a14eb7fba3cb.png)
+
+24. Membuat file baru dengan nama ArtikelModel.php
+
+![5](https://user-images.githubusercontent.com/101656195/174024711-083fe8cb-b345-43a2-a0d7-a54e6709f5f6.png)
+
+25. Membuat file baru dengan nama Artikel.php
+
+![6](https://user-images.githubusercontent.com/101656195/174024721-c8626e08-0880-43d7-b21b-74589e63c1d9.png)
+
+26. Membuat file baru dengan nama index.php
+
+![7](https://user-images.githubusercontent.com/101656195/174024723-ec49b98f-8e19-4607-a1b0-e519ddd9de1d.png)
+
+27. Cek hasil coodingan melalui link URL : http://localhost:8080/artikel
+
+![8](https://user-images.githubusercontent.com/101656195/174024726-25a04373-57db-4c21-979b-15821f9db1d2.png)
+
+28. mambahkan beberapa data pada database dan cek hasil nya
+
+![9](https://user-images.githubusercontent.com/101656195/174030107-b2e15829-3aa7-45f5-b4c8-a299e56c998e.png)
+
+![10](https://user-images.githubusercontent.com/101656195/174024731-feb2b55b-f085-4f4b-8291-5706c04376d6.png)
+
+29. Tambahkan fungsi baru pada Controller Artikel dengan nama view().
+
+![11](https://user-images.githubusercontent.com/101656195/174030635-bfb84775-1e10-4de6-b2f3-aacb335d342d.png)
+
+30. Membuat file baru dengan nama detail.php
+
+![12](https://user-images.githubusercontent.com/101656195/174030649-dd0bd956-bc36-4fda-a40e-e7b2051822aa.png)
+
+31. Tambahkan routing untuk artikel detail
+
+![13](https://user-images.githubusercontent.com/101656195/174030655-663cf656-2cb5-49f5-a79f-65c30eebd300.png)
+
+32. Cek hasil coodingan melalui link URL : http://localhost:8080/artikel/artikel-kedua
+
+![14](https://user-images.githubusercontent.com/101656195/174030658-281c2bab-57ac-4b45-ab7b-aa8d38e16fa8.png)
+
+33. Buat method baru pada Controller Artikel dengan nama admin_index()
+
+![15](https://user-images.githubusercontent.com/101656195/174030662-701fc919-957d-4e08-afac-70d9bbd39b9f.png)
+
+34. Membuat file baru dengan nama admin_index.php
+
+![16](https://user-images.githubusercontent.com/101656195/174031695-ee804c85-091b-481a-be81-1545b2780217.png)
+
+![17](https://user-images.githubusercontent.com/101656195/174031709-9c8e803f-bbc7-4dcc-92f0-76fb176bf75f.png)
+
+35. Membuat file baru dengan nama admin_header.php
+
+![18](https://user-images.githubusercontent.com/101656195/174031716-a77ecca4-17dd-45e5-aa31-cb350a3307bd.png)
+
+36. Membuat file baru dengan nama admin_footer.php
+
+![19](https://user-images.githubusercontent.com/101656195/174031718-ab0df6ba-433b-4570-9d1a-4bf26d49198f.png)
+
+37. Tambahkan routing untuk menu admin
+
+![20](https://user-images.githubusercontent.com/101656195/174031721-0371f4b9-d134-429d-99af-16cf967a8213.png)
+
+38. Cek hasil coodingan melalui link URL : http://localhost:8080/admin/artikel
+
+![22](https://user-images.githubusercontent.com/101656195/174033100-9eb2c1b6-437e-4ecc-bee4-ce8185b444b0.png)
+
+39. Tambahkan fungsi/method baru pada Controller Artikel dengan nama add()
+
+![23](https://user-images.githubusercontent.com/101656195/174033701-0387030f-ff45-4cfb-8af3-d3a834be4198.png)
+
+40. Cek hasil coodingan melalui link URL : form_add.php
+
+![24](https://user-images.githubusercontent.com/101656195/174033707-7bc96bdd-b3a8-496a-9750-cedbdce5e0b3.png)
+![25](https://user-images.githubusercontent.com/101656195/174033711-0eb4d217-684c-4384-9784-d6c9684b9e74.png)
+![26](https://user-images.githubusercontent.com/101656195/174033716-2cc60f80-fe61-4a6c-b2bf-b06605be6cfc.png)
+![27](https://user-images.githubusercontent.com/101656195/174033722-c5fd3c0c-a784-482c-bb06-bd0206a51d8c.png)
+![28](https://user-images.githubusercontent.com/101656195/174033730-3310df6a-a22f-4a7c-a52c-65843052341b.png)
+![29](https://user-images.githubusercontent.com/101656195/174033735-ed38611d-6380-4059-9356-82de2de66e22.png)
