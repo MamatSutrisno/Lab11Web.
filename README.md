@@ -198,15 +198,17 @@ lab4_layout. Kita akan gunakan layout yang pernah dibuat pada praktikum 4.
 
 ![29](https://user-images.githubusercontent.com/101656195/174033735-ed38611d-6380-4059-9356-82de2de66e22.png)
 
-25. Membuat database baru dengan nama Tabel User
+# Lab12Web.
+
+1. Membuat database baru dengan nama Tabel User
 
 ![1](https://user-images.githubusercontent.com/101656195/175082161-e1fa8a0d-781c-47b4-b460-d393f30d0a08.png)
 
-26. Membuat file baru dengan nama UserModel.php
+2. Membuat file baru dengan nama UserModel.php
 
 ![2](https://user-images.githubusercontent.com/101656195/175082187-af252180-f6b6-4bab-9888-249a11bea3dc.png)
 
-27. Membuat file baru dengan nama User.php
+3. Membuat file baru dengan nama User.php
 
 ![3](https://user-images.githubusercontent.com/101656195/175082195-3bdb91c7-cd66-4a0f-8679-7c65c5eb96e4.png)
 
@@ -214,44 +216,44 @@ lab4_layout. Kita akan gunakan layout yang pernah dibuat pada praktikum 4.
 
 ![5](https://user-images.githubusercontent.com/101656195/175082211-32af0d88-cb81-4813-8181-27902918ec1f.png)
 
-28. Membuat file baru dengan nama login.php
+4. Membuat file baru dengan nama login.php
 
 ![6](https://user-images.githubusercontent.com/101656195/175082215-208f2d56-2cf2-4586-8a8c-4c7e1a8c90c8.png)
 
 ![7](https://user-images.githubusercontent.com/101656195/175082226-a7e39d26-bc03-4e43-a1a5-096ffef648dc.png)
 
-29. Membuat Database Seeder
+5. Membuat Database Seeder
 
 ![8](https://user-images.githubusercontent.com/101656195/175082239-88eb1e63-c9c0-4013-ad96-077f115b7985.png)
 
-30. Membuat file baru dengan nama UserSeeder.php
+6. Membuat file baru dengan nama UserSeeder.php
 
 ![9](https://user-images.githubusercontent.com/101656195/175082246-d0d5fdc0-e1f7-4e4a-ae6f-7fc3219b22e9.png)
 
-31. Membuat Database seed UserSeeder
+7. Membuat Database seed UserSeeder
 
 ![10](https://user-images.githubusercontent.com/101656195/175082253-6e91e36d-4258-46db-9eb0-91bc8163c407.png)
 
-32. Cek hasil coodingan melalui link URL : url http://localhost:8080/user/login
+8. Cek hasil coodingan melalui link URL : url http://localhost:8080/user/login
 
 ![11](https://user-images.githubusercontent.com/101656195/175082257-e6892e7b-b15c-48bb-a9f3-862819d77841.png)
 
-33. Membuat file baru dengan nama Auth.php
+9. Membuat file baru dengan nama Auth.php
 
 ![12](https://user-images.githubusercontent.com/101656195/175082262-1058caf3-e100-431f-a088-1d2cff64a9f3.png)
 
-34. Selanjutnya buka file app/Config/Filters.php tambahkan kode : 'auth' => App\Filters\Auth::class
+10. Selanjutnya buka file app/Config/Filters.php tambahkan kode : 'auth' => App\Filters\Auth::class
 
 ![13](https://user-images.githubusercontent.com/101656195/175082268-13417f0d-bce4-4a6b-b788-9bd11c7e4cc2.png)
 
-35. Selanjutnya buka file app/Config/Routes.php dan sesuaikan kodenya
+11. Selanjutnya buka file app/Config/Routes.php dan sesuaikan kodenya
 
 ![14](https://user-images.githubusercontent.com/101656195/175082274-a65566bc-b6c1-42a8-a733-8d39ebd5a595.png)
 
-36. Cek hasil coodingan melalui link URL : url http://localhost:8080/user/login
+12. Cek hasil coodingan melalui link URL : url http://localhost:8080/user/login
 
 ![15](https://user-images.githubusercontent.com/101656195/175082280-084be589-5eb5-4607-81da-d9aa92f2bea9.png)
 
-37. Tambahkan method logout pada Controller User seperti berikut :
+13. Tambahkan method logout pada Controller User seperti berikut :
 
 ![16](https://user-images.githubusercontent.com/101656195/175082285-60244892-d545-4f13-9604-a7d70f52a288.png)
