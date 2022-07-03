@@ -198,7 +198,7 @@ lab4_layout. Kita akan gunakan layout yang pernah dibuat pada praktikum 4.
 
 ![29](https://user-images.githubusercontent.com/101656195/174033735-ed38611d-6380-4059-9356-82de2de66e22.png)
 
-# Lab12Web.
+# Lab13Web.
 
 1. Membuat database baru dengan nama Tabel User
 
@@ -257,3 +257,38 @@ lab4_layout. Kita akan gunakan layout yang pernah dibuat pada praktikum 4.
 13. Tambahkan method logout pada Controller User seperti berikut :
 
 ![16](https://user-images.githubusercontent.com/101656195/175082285-60244892-d545-4f13-9604-a7d70f52a288.png)
+
+#Lab14Web.
+
+1. Membuat Pagination
+
+![1](https://user-images.githubusercontent.com/101656195/177022076-25dd18b9-655a-4628-becd-f090420bc9ea.png)
+
+2. image Kemudian buka file views/artikel/admin_index.php dan tambahkan kode berikut dibawah deklarasi tabel data
+
+![2](https://user-images.githubusercontent.com/101656195/177022078-3deb8e02-8bda-4bd1-a261-f49417b23b79.png)
+
+3. Cek hasil coodingan melalui link URL : http://localhost:8080/admin/artikel
+
+![3](https://user-images.githubusercontent.com/101656195/177022079-432ee3c6-9337-4514-b225-c32cc889d101.png)
+
+4. Membuat Pencarian Pencarian data digunakan untuk memfilter data
+
+![4](https://user-images.githubusercontent.com/101656195/177022081-20f70638-f82c-4552-8594-7c51da76b3b2.png)
+
+5. Kemudian buka kembali file views/artikel/admin_index.php dan tambahkan form pencarian sebelum deklarasi tabel seperti berikut
+
+![5](https://user-images.githubusercontent.com/101656195/177022083-2c264598-66e5-43ae-872a-ed244127efc8.png)
+
+6. Cek hasil coodingan melalui link URL : http://localhost:8080/admin/artikel
+
+![6](https://user-images.githubusercontent.com/101656195/177022084-47b5aba4-2901-400d-9089-cb87f9d9d103.png)
+
+7. Upload Gambar Menambahkan fungsi unggah gambar pada tambah artikel. Buka kembali Controller Artikel, sesuaikan kode pada method add seperti berikut:
+
+![7](https://user-images.githubusercontent.com/101656195/177022085-e3f76f80-7aac-40c9-b603-55bc268a975c.png)
+
+8. Cek hasil coodingan melalui link URL : http://localhost:8080/admin/artikel/add
+
+![8](https://user-images.githubusercontent.com/101656195/177022087-541d1c82-da07-441f-9422-6661a2f2d5cb.png)
+
