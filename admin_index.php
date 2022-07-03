@@ -1,3 +1,7 @@
+<form method="get" class="form-search">
+<input type="text" name="q" value="<?= $q; ?>" placeholder="Cari data">
+<input type="submit" value="Cari" class="btn btn-primary">
+</form>		
 <?= $this->include('template/admin_header'); ?>
 <table class="table">
 <thead>
@@ -40,4 +44,5 @@ $row['id']);?>">Hapus</a>
 </tr>
 </tfoot>
 </table>
+<?= $pager->only(['q'])->links(); ?>
 <?= $this->include('template/admin_footer'); ?>
